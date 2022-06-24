@@ -1,5 +1,5 @@
 <!--
-  This targets file will enable Central Package Versions for any Visual
+  This targets file will enable Central Package Versions for any Visualll
   Studio projects in the solution.
   https://github.com/microsoft/MSBuildSdks/tree/master/src/CentralPackageVersions
 -->
